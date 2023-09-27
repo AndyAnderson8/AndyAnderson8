@@ -1,5 +1,5 @@
 ### 🚀 About Me
-I'm a software developer in Seattle, WA currently completing my final year of my computer science degree at WGU.
+I'm a software developer in Tucson, AZ, currently completing my final year of my computer science degree at WGU.
 
 ### 📫 Reach Out
 
