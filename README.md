@@ -1,5 +1,5 @@
 ### 🚀 About Me
-I'm a software developer in Tucson, AZ, currently completing my final year of my computer science degree at WGU.
+I'm a software developer in Tucson, AZ. I have just completed my final semester of my Computer Science degree and am seeking a position as a Software Engineer.
 
 ### 📫 Reach Out
 
