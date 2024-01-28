@@ -1,5 +1,5 @@
 ### 🚀 About Me
-I'm a software developer in Tucson, AZ. I have just completed my Computer Science degree, and am now seeking a full-time position as a Software Engineer.
+I'm a software developer in Tucson, AZ. I love tackling real-world problems through code.
 
 ### 📫 Reach Out
 
