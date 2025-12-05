@@ -1,5 +1,6 @@
-### 🚀 About Me
-I'm a software developer in Tucson, AZ. I love tackling real-world problems through code.
+### 👋 Hello! 
+
+I'm a software developer living in sunny Phoenix, AZ. Wanna get in contact? Check out my socials below!
 
 ### 📫 Reach Out
 
